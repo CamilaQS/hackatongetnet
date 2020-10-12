@@ -1,0 +1,76 @@
+
+
+.bgindex{
+    
+    background-image: url(img/bg.jpg);
+    background-size: 100%, 200602px;
+}
+
+.conteudoindex{
+    font-size: 55px;
+    font-family: 'Franklin Gothic Medium' ;
+    color:#2F4F4F	;
+    padding-top: 5%;
+    padding-left: 5%;
+    padding-right: 35%;
+}
+
+.conteudoapresentacao{
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium' ;
+    color:#2F4F4F	;
+    padding-top: 5%;
+    padding-left: 5%;
+    padding-right: 35%;
+
+}
+
+.conteudo{
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium' ;
+    color:#2F4F4F	;
+    padding-top: 5%;
+    padding-left: 5%;
+    padding-right: 35%;
+    padding-bottom: 5%;
+}
+
+
+
+.conteudocad{
+    font-family: 'Franklin Gothic Medium' ;
+    color:#2F4F4F	;
+    padding-top: 2%;
+    padding-left: 25%;
+    padding-right: 20%;
+   padding-bottom: 5%;
+    
+}
+
+.card{
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium' ;
+    color:#2F4F4F	;
+    padding-top: 2%;
+    padding-left: 10%;
+    padding-right: 10%;
+  
+}
+
+.imgcard{
+    width: 50%;
+}
+
+
+a:link, a:visited {
+    text-decoration: none;
+    color:white;
+	}
+a:hover {
+	text-decoration: underline; 
+	color: white;
+	}
+a:active {
+    text-decoration: none;
+    color: white;
+	}
